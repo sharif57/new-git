@@ -1,10 +1,10 @@
-p{
-    background-color: aquamarine;
-    font-size: 40px;
-}
 h1{
-    color: blue;
-    background: #000;
     font-size: 100px;
     text-align: center;
+}
+.blog{
+    background-color: chocolate;
+}
+p{
+    font-size: 30px;
 }
